@@ -71,5 +71,7 @@ for ($a = 1; $a <= $bil2; $a++){
 
 <p>Langkah ketiga: pilih faktor yang sama dan terbesar dari <?php echo $bil1; ?> dan <?php echo $bil2; ?><br>
 Faktor yang sama dan terbesar adalah <?php echo FPB($bil1, $bil2); ?></p>
+
+ghaosdjhagda
 </body>
 </html>
